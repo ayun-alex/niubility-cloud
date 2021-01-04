@@ -44,6 +44,7 @@ niubility-cloud
 | Seata                  | 全局事务管理框架     | https://github.com/seata/seata                       |
 | Portainer              | 可视化Docker容器管理 | https://github.com/portainer/portainer               |
 | Jenkins                | 自动化部署工具       | https://github.com/jenkinsci/jenkins                 |
+| nacos                  | 注册中心       | https://nacos.io/zh-cn/docs/quick-start.html                 |
 
 ### 前端技术
 
